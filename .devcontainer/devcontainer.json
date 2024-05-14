@@ -1,0 +1,6 @@
+{
+    "name": "App with Database",
+    "dockerComposeFile": "../docker-compose.yml",
+    "service": "web",
+    "workspaceFolder": "/unipass"
+}
